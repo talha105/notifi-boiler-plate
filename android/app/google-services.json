@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118209590661",
+    "project_id": "hardware-d7239",
+    "storage_bucket": "hardware-d7239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118209590661:android:440d268b420b9ff68bc0ec",
+        "android_client_info": {
+          "package_name": "com.hardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118209590661-0sjlcrt6n078gu4c22qvcu1iiqsd8e08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVvIXAxDarbRufwTHFr2NFqEBGCEaEC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118209590661-0sjlcrt6n078gu4c22qvcu1iiqsd8e08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
